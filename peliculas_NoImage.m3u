@@ -1,4 +1,22 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/alan-olivares/Aplicacion/master/guiaPelicula.xml"
+#EXTINF:-1,Un lugar en silencio Parte II (2021)
+https://lh3.googleusercontent.com/MfpTJxg8rxbMMfIxAoezrhwIoRK9qUUcb5uSb0jVgUf3GdWKEQA3sSt4SHOYG2g753wTR9ZNPFqLslFuCX6dO32NrKLw6H94_B2O89OIgxAxiDPOZspZhXDl8wUXu7AQlPuT06OGKjI=m18
+
+#EXTINF:-1,Luca (2021)
+https://lh3.googleusercontent.com/-YE6ETzGI4JJP9tUpeT8e9ebet5pO_RUX8MD3qIr44Yvc2uSp56ye0eQhpFfUUHkAm3Qw9sKrql2zoHewaAvpb-H3FYg7eqhTA_zg7l3c6vq0UZXg3Cjr1v01qu1etV-UniGuYtxqL0=m22
+
+#EXTINF:-1,Paternidad (2021)
+https://lh3.googleusercontent.com/1lzAKsM4ND4celBr6PL4YslycqVozdK0S9CDidom1KQiImwFfPlYdC4dYXGidf-EF_HfhZahpDtrhv83L1xczJ4CpdwQwyhQMJBHr29NeiucoanLpBH0xJQDyyO-rk9lgsxFGQpCX1Q=m18
+
+#EXTINF:-1,Confinados (2021)
+https://lh3.googleusercontent.com/tkHGVu79p9zEmEah45HWC_rg32Zl3dvHYwLUHhwgZQARXmR3WunvFjYJGyic3AZFQdxXBYmEg4CVLCVGF5B9Rf5ChlOLSc1VukLl1-HsyZNEijKhvjXOrLTFv6XcX4Zoydnxug_jBUo=m22
+
+#EXTINF:-1,Samurai X El Fin (2021)
+https://lh3.googleusercontent.com/yPHhELJbKxBMkeBDj6efJfAL6MWiVjElCOrsRZ_qs7nJZMmoNt7Tjg28MSeGALnNvmYhY_ukMuCH5EbeLLuGQ4C7fooNUN2I4GVn0oFNcJUSotxReBEPGKHTZXtNHafETsCqKUEA12A=m18
+
+#EXTINF:-1,Un lugar en silencio (2018)
+https://lh3.googleusercontent.com/fDw7CruyBOYBx0VT4kFlT7nwkZr5oe-Z1PmrDVd43piCRUy0mQ68WHQIpciU-8AdZLtM_NZeHNwAVlDygWzqP_s7gPNP4P1bB55kBQfIL4e0R--0RZGCW5mFGnWzxoC1v-fXIkh3WMk=m37
+
 #EXTINF:-1,El Conjuro 3 el Diablo me Obligó a Hacerlo (2021)
 https://lh3.googleusercontent.com/CHHfklfunivBx4eE7F5tuMrxOBms20l3qz2k-iyf0wumJjQUes7kpx0oWviNqvDhjR6Rd8SDue7ehyxtpSZ2YYMFmH6q-8ZJjPMM4p6BgaYRkXh5VhB0qrJJ4NPO3WvgjmKvgj8tk7Y=m37
 
@@ -4451,9 +4469,6 @@ https://lh3.googleusercontent.com/ymBBMcU5TNJF0NqOdGGKShaAH75ODcwAqDjO2N8vVzXlmt
 
 #EXTINF:-1,Un loco funeral (2019)
 https://lh3.googleusercontent.com/oAnOUirxwbFc3QcD17xPfr645XMdEz4i3RYShoVqT_2leqNszfO-BffY4DgSBQov7WEPQqRw7Am3XFujP30=m22
-
-#EXTINF:-1,Un lugar en silencio (2018)
-https://lh3.googleusercontent.com/fDw7CruyBOYBx0VT4kFlT7nwkZr5oe-Z1PmrDVd43piCRUy0mQ68WHQIpciU-8AdZLtM_NZeHNwAVlDygWzqP_s7gPNP4P1bB55kBQfIL4e0R--0RZGCW5mFGnWzxoC1v-fXIkh3WMk=m37
 
 #EXTINF:-1,Un millonario con suerte (2018)
 https://lh3.googleusercontent.com/e9HVIqexiL6jo5jC7ESxx035LZzhbwsnfGr1a5soVZIByvZlptTdE6gwDpXCyP4PqCeO0-jYrynncjAqpTc=m37
