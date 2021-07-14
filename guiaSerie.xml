@@ -1990,13 +1990,22 @@
      <desc lang="es">Devs es una serie dramática estadounidense que sigue la historia de Lily, una chica ingeniera informática. En este momento, la joven está investigando la división secreta de desarrollo de la compañía tecnológica en la que trabaja. Esta compañía tiene su sede en San Francisco y, la joven informática sospecha que dicha compañía tiene algo que ver con la desaparición misteriosa de su novio.</desc>
     </programme>
 
-    <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="">
-      <title lang="es">Calificación </title>
-      <desc lang="es"></desc>
+    <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="Solos">
+      <title lang="es">Calificación 6.5</title>
+      <desc lang="es">Solos es una serie antológica que cuenta siete historias totalmente independientes que invitan a reflexionar al explorar el significado más profundo de la conexión humana a través de la visión única e individual de sus protagonistas.</desc>
     </programme>
-    <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="">
-      <title lang="es">Calificación </title>
-      <desc lang="es"></desc>
+    <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="Solos">
+      <title lang="es">Calificación 6.5</title>
+      <desc lang="es">Solos es una serie antológica que cuenta siete historias totalmente independientes que invitan a reflexionar al explorar el significado más profundo de la conexión humana a través de la visión única e individual de sus protagonistas.</desc>
+     </programme>
+
+     <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="Raised by Wolves">
+       <title lang="es">Calificación </title>
+       <desc lang="es">Raised by Wolves sigue la historia de Padre y Madre, dos robots que tienen como misión criar hijos humanos en un desconocido planeta. Todo es como lo establecido hasta que la población de humanos comienza a aumentar y, la religión crea diferencias entre sus miembros. Llegado este momento, los androides se dan cuenta que es difícil controlar las creencias de una forma racional.</desc>
+     </programme>
+     <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="Raised by Wolves">
+       <title lang="es">Calificación </title>
+       <desc lang="es">Raised by Wolves sigue la historia de Padre y Madre, dos robots que tienen como misión criar hijos humanos en un desconocido planeta. Todo es como lo establecido hasta que la población de humanos comienza a aumentar y, la religión crea diferencias entre sus miembros. Llegado este momento, los androides se dan cuenta que es difícil controlar las creencias de una forma racional.</desc>
      </programme>
 
      <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="">
@@ -2006,6 +2015,33 @@
      <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="">
        <title lang="es">Calificación </title>
        <desc lang="es"></desc>
-      </programme>
+     </programme>
+
+     <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="">
+       <title lang="es">Calificación </title>
+       <desc lang="es"></desc>
+     </programme>
+     <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="">
+       <title lang="es">Calificación </title>
+       <desc lang="es"></desc>
+     </programme>
+
+     <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="">
+       <title lang="es">Calificación </title>
+       <desc lang="es"></desc>
+     </programme>
+     <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="">
+       <title lang="es">Calificación </title>
+       <desc lang="es"></desc>
+     </programme>
+
+     <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="">
+       <title lang="es">Calificación </title>
+       <desc lang="es"></desc>
+     </programme>
+     <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="">
+       <title lang="es">Calificación </title>
+       <desc lang="es"></desc>
+     </programme>
 
 </tv>
