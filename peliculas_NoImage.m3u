@@ -1,4 +1,39 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/alan-olivares/Aplicacion/master/guiaPelicula.xml?token=AHPG7PBV723YKL5OZG4MHOLA7CJAQ"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/alan-olivares/Aplicacion/master/guiaPelicula.xml"
+#EXTINF:-1,CODA Señales del corazón (2020)
+https://lh3.googleusercontent.com/nchQBcSAd4ghYI9RsPljbrYKLBPuq2-0d_gSiuqAZCZe7LdztNNTuz6_09l1g8hFYISGnKof0rRIMG3wcbZ2PV5UO8z2d9SL0PU31JkCTxSUjFpq1W1-aUyL8PZzRF3oImYWD5oW3n0=m37
+
+#EXTINF:-1,Jungle Cruise (2021)
+https://lh3.googleusercontent.com/V4GgL1fkKJIFhGDuZ-p0HNj7l1d_2QlDwxYV4s372bu7uSDq2ZjKvKjwHQLkREo4T7PUIpuDLFXCosUy7CA9p0zeucqixFkjIoZq3LUPlcOS5Fq8NTf5RvsYtf4g2S-h4ducJ4NKGmk=m37
+
+#EXTINF:-1,Mr Jones (2019)
+https://lh3.googleusercontent.com/2FCQSCgXHlKWCQpDilj_zBxvXQ-0Y-7rokQxLc902trrcZC3DNUre26GthXNRLtn844DZEYI8aQ585DI6K-w7i1CGusoy3ypfrAQiQMRcOyXnwEUVSVOlbJnqHNE25NgtF_dW7H7pt8=37
+
+#EXTINF:-1,Ironbark El Espía Inglés (2021)
+https://lh3.googleusercontent.com/rFiIlVJin1-3zA5jVFg45BcC1SS6JebrAuB_W2Whp3mLFfk9Llii9hkFXkIf0aeeFhEFxN8NK6EJS0SaCErmOPIox0fjuSRB7DFxhZqmXoGaC2crJBkRq5BFKnfkOIOArid_4Du-Sxc=m37
+
+#EXTINF:-1,Un rescate de huevitos (2021)
+https://lh3.googleusercontent.com/vn0ylYNqyk3ySnLP0eUq8hdj1Qbc1szpX3O38UOIX8fNzyR1fyVUxc5aRz3uGcHgCHJG8LVLC3TqnYAZUUcINkH_f_euahG7FxMdzTTckIiqojgG7odfSMtFzcwN9Iv7p1I7n255YD4=m37
+
+#EXTINF:-1,El Mesero (2021)
+https://lh3.googleusercontent.com/0_u_Gkq4SbsmAps6nSSj7slt1k1k7mCkAt3vE0kgXjKqzWlfJCUVr-MwEjPFPP-D4ebJQAT-0pbuNKjGWV8PMWUlcj-0iKNz2fA5qw1sxf0ylUE16N_vXCXtShfbkjDoB6R48nYtDeA=m37
+
+#EXTINF:-1,Reminiscencia (2021)
+https://lh3.googleusercontent.com/f7x0N5V0zTQtNlTt2Mo78abfopmLoCpsKmjRTk2cOqiPXaPJXP8FfqmKryb89TvKbmCD6t8UnawE1qGz7eJnJd_b0Xdm1z7ZyAGW8MQ_EZ0uN65o8684QyQdAfG-qslrAP9WSgCgGGI=m37
+
+#EXTINF:-1,Villanos (2019)
+https://lh3.googleusercontent.com/p3doUHql9fQomtnZOUelwN4dnWKCeHLWJjvc5puZp-8OOgBDNbYGdi99YF-qDZ5NamXrd6DcHKgbGoW2JavsNMyEFbsg8s7voBe2EBZMqWSM5JI2yUIkTlXgHf37Zzcyj5NB8EFzvvQ=m37
+
+#EXTINF:-1,Sweet Girl (2021)
+https://lh3.googleusercontent.com/VtB1O_bUUPbDDDvoDL586dCw7mlpB7vruZGUSFFLjt4uCZ8iPsxfTFPdl2ke1rRnUYMKm463pwHr7TBcUaq29fJCzp3pf04UnFWC19gnkDqVXZBPU6oZrUaVyMG_1WXrJiqe112SrAo=m37
+
+#EXTINF:-1,El stand de los besos 3 (2021)
+https://lh3.googleusercontent.com/nH6VsA8qp0PbHqXKcEK9U-gfI0V4yLO3w7Cvm5XG5hrfmUiyPOp2Dues7iljs4l5fQFZuidC1PbPp-1eYEFHXOL_8y54TCGjx490_PwvU90Fo5U-j01cFW8t5OP9IBVGnFuIH2drXKo=m37
+
+#EXTINF:-1,El Stand de los Besos 2 (2020)
+https://lh3.googleusercontent.com/I5mBEWdNhfGlGACXDIe-yQeyOenZb7mbtb_-ev69nNBj3osx0DfAjryUuRPLvgXj91nUdRpO9I2HaPThBqQRYGz1zTulUZhB_-eqVQcXE5sEp5c-sA5luBHi-DQhrLqmyM6g9KdJVmc=m37
+
+#EXTINF:-1,El stand de los besos (2018)
+https://lh3.googleusercontent.com/XMk9J8XPf_B_bDS8-s7rvGhm82B3cnEF2T9oUEhnildhTBF-k7i3BDpNK94MFhe-Ivz-XJwyhxh0-QW849cnLLmpryoz7EhAQt44KvLTmcyGxNbE-MYrYQVTltkNdiebBuMwNvxLhKU=m37
 
 #EXTINF:-1,El Escuadrón Suicida (2021)
 https://lh3.googleusercontent.com/E1o270G2lNB35TxXUtfON_3Q105YeMfotCXziyu2y7jcKl4cmp7KUS7O4q41sKTKbR9izv10Q2N-E5103bVDbpjlVLzmcHc5Icv1RjgibkE1UTvBrGkGQ7CRM2MGuq4KoJTxb7eZ4QA=m37
@@ -1008,12 +1043,6 @@ https://lh3.googleusercontent.com/sqMlBer1YcNZVTsXTScKQofo4ND7GwGn3FParqiNNPdjcS
 
 #EXTINF:-1,You Should Have Left (2020)
 https://lh3.googleusercontent.com/uMTTmq5Fqfwgr0AYNKxv0n1E6NzpPdS8iKl6aig0JvY6OQwfFagRgKaQITNfMrU9sCIIDix-MSw5sssxGc6TXzYN2Wp5_SLpYwTkZCV2GGQ4w67ePmVtNT8MzuNm-CHqVmNkiDDqTAA=m37
-
-#EXTINF:-1,El Stand de los Besos 2 (2020)
-https://lh3.googleusercontent.com/I5mBEWdNhfGlGACXDIe-yQeyOenZb7mbtb_-ev69nNBj3osx0DfAjryUuRPLvgXj91nUdRpO9I2HaPThBqQRYGz1zTulUZhB_-eqVQcXE5sEp5c-sA5luBHi-DQhrLqmyM6g9KdJVmc=m37
-
-#EXTINF:-1,El stand de los besos (2018)
-https://lh3.googleusercontent.com/XMk9J8XPf_B_bDS8-s7rvGhm82B3cnEF2T9oUEhnildhTBF-k7i3BDpNK94MFhe-Ivz-XJwyhxh0-QW849cnLLmpryoz7EhAQt44KvLTmcyGxNbE-MYrYQVTltkNdiebBuMwNvxLhKU=m37
 
 #EXTINF:-1,Deep Blue Sea 3 (2020)
 https://lh3.googleusercontent.com/jqlOMJmwn68K6yRGpwKJaz3LgtupGz739wtmcY6NNLnbOctUUNjfBM5ZJQm5UhgoONAbOvMbTb8KUqTYAh6XNayO2OMyFMexM6l400Si5W0DSLFHiQKbrG7jaAzjCwgI5NkGcCVwuw4=m37
