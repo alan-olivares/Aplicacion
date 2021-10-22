@@ -1,3 +1,25 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/alan-olivares/Aplicacion/master/guiaPelicula.xml"
+#EXTINF:-1,Dune (2021)
+https://lh3.googleusercontent.com/RgO135gltbKYT85v2qFHQQs2eLUjHeGm-XgJLKNcfAaiJ44gr_ELJLiVL7dIpOzQatrn33_heUaKHMoWSgqWmrZQJ83-zQStvP0U1enKsrt2HcgovGh-MTIozwrr0XPCWjMqfRaayUc=m37
+
+#EXTINF:-1,La batalla olvidada (2021)
+https://lh3.googleusercontent.com/e4B6n8uQ1s94qO4EzMhIMITTEDD0lhLg6fezgvX0bklem2oRKYyp9BwGIbNISvCBtOR74bJGODpTdtztrEPEocqHWGAdencgs4kFJWkKQmztsRYCewZwPCj5SJO8akKWt0FAHxSmCM0=m37
+
+#EXTINF:-1,Halloween Kills: La noche aún no termina (2021)
+https://lh3.googleusercontent.com/8HGUnLqwTb8e-kl4ACFg66-NexsozMZGA-HlH6hYYQQxWhxE_XK5drSv1MsTFnid4VN0BfX1bcKrzgd2q4j22wVCQev8r_TpaF7mwdeTTz3aEj2_NQSn4svgFlAW7sjxFmqFbBlQf4o=m37
+
+#EXTINF:-1,El Protegido (2021)
+https://lh3.googleusercontent.com/-9aIVF_xaWRG8x-kh7R0F_BYh3NLY6mBDHDPB-FepnXf3N-yMykgiZPIt9wSVzsNLMOQWMUKjytxlA7Cg-wSs-Ny2-GGDD6Mu1kTYwgbWH0OnYg1uwLlFeOjgdMsJTlmLaJNTLrjLRs=m37
+
+#EXTINF:-1,El viaje (2021)
+https://lh3.googleusercontent.com/NGFvEYmZR6gcIhJtw2wrhv7bucriFaZvBpMhmQjayrS_niqz5TEP5MJ3mF71vpTPZJW7oIMD625TE0a8EX5ofUNfN7xy_hdJjUtVGaptxvfm6q6J5FYkCxgarQzz_q5P0hjnxpAlzG4=m37
+
+#EXTINF:-1,Infinite (2021)
+https://lh3.googleusercontent.com/swmBvbd0FA5B_ay8_FIv3WK7mZeoiC_GHiGIcQiC-VkveHC1t7-TRAXGaN1QDbXxxikUArXbcnrwolN06fJ55aIpZ8fbQuXyu6CtBsvJjd3b2tJW5DbsAiPvbuT_pgCQiD7qF-ZPhnk=m37
+
+#EXTINF:-1,Halloween (2018)
+https://lh3.googleusercontent.com/NLSbde2JUKPIte_Hitu_Y4SvQWjUfFeATGcbv391-jfmBWm7gGhwind6hY62_d7P5oaQ_XH6x8MIM3ntOw4=m37
+
 #EXTINF:-1,La Casa Oscura (2021)
 https://lh3.googleusercontent.com/Tw73oCx7sxlOfpimP3whixyDFpfa9caqpxDaWuz4RvoAnyKStcL5hn_LvrualP99IDPmoDhc95brivOEGoKlyBWveMfh9NPcx612GuQz9UWFpbsbiYGueIujSzoS6HRsCXDeQ3F0PDw=m37
 
@@ -3133,9 +3155,6 @@ https://lh3.googleusercontent.com/8PPADskYBeO0SoA3t5jLAUSViB0j1sCpT9i2z9ipGsvfzM
 
 #EXTINF:-1,Hacia el infierno (2016)
 https://lh3.googleusercontent.com/J7ptUBpjOAU3dmnWDJeYI5vRtQNFMB2zl8ZYg9g1FW8CWlMlXkbq9IvQkd_bM30L5QCtLsp-q8OntV_zefGYtzPrtsMZsP_IdIGdY4mkP62RNh2yUUtXd6Q0tKf8E_m3X816x5PUhw=m37
-
-#EXTINF:-1,Haloween (2018)
-https://lh3.googleusercontent.com/NLSbde2JUKPIte_Hitu_Y4SvQWjUfFeATGcbv391-jfmBWm7gGhwind6hY62_d7P5oaQ_XH6x8MIM3ntOw4=m37
 
 #EXTINF:-1,Handia (2017)
 https://lh3.googleusercontent.com/_S40ESwoFh0ZTRPK6yyEig2admeIWl7s7TldsohBMwI_D1XOJ2z3kz714DMIpZtmg083skak0tkS98AldRs=m37
