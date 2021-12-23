@@ -1,4 +1,19 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/alan-olivares/Aplicacion/master/guiaPelicula.xml"
+#EXTINF:-1,Spider Man: Sin camino a casa (2021)
+https://lh3.googleusercontent.com/KKCMkfT9jJt6wBv004s1kouMeihYC3WrFzrKTh_-ZI0xdFZJkYR5koWOpkrWmOkXQsHc6if_oW4XIBvuqRtarWwPdR4JxyAPo2DAMnOA-GtE_e2OJzxjgomUX8WdARIlbt_UNVo_pBk=m37
+
+#EXTINF:-1,Matrix Resurrecciones (2021)
+https://lh3.googleusercontent.com/ukl-XGs6q_apkgMHJo-0GAYN7RggoJsphZqdE1YUQ1WCM5jm8ipDjFuvLY_gvLsueVIG0QguuBQHaxjjQDBP-yHnJkvIcf5sePL2ym_LMqimSqjtgi5bhEppaT0brvysO0nkqG5h32M=m37
+
+#EXTINF:-1,Matrix (1999)
+https://lh3.googleusercontent.com/qoFyHAHrvK-S2YQgIw4uVHwkiMnuRZcDDL7xHXqFsXdPVd67Odpt_Zcg0ad78R3WzxLEK4C-CBgHfq0IHjtxUvxFCmyQGuqxM6vFAjp4zK9zXNQ5t7_sXtfLpKE4MmmO0tjt_lNuE0s=m22
+
+#EXTINF:-1,Matrix: Revoluciones (2003)
+https://lh3.googleusercontent.com/nMLUC_QitMaGbM5YiXxe1POPdBaWz8z_uLh2dLsAem167QMoi28ROFi9bx8PHnu_ivnKBYbkA3WL1F599Wry_bJX55LkGPgATvrDzlVm0cx_-K7ZiwAjFQ3r4VKZbKJ61u_hCN_SXP0=m22
+
+#EXTINF:-1,Matrix: Recargado (2003)
+https://lh3.googleusercontent.com/YBRDIl2V9xGgUsF1nfSm1bn6DevaYHisVNPSVTVog9uGeuB9u1AcccezBGO33VDkJaz4-oG_U5KHFsE6aY2brwAj-5-LLU7Z6OQhWQIgZdgMAV7V-fTS5xWKTpgxsrKf9vW7dExNe3A=m22
+
 #EXTINF:-1,Imperdonable (2021)
 https://lh3.googleusercontent.com/tnt6_7bQnYs5X77WvJ5xgouDUPoSAteV6tDlGbAdwvB6SAVRRGOTcOG5st_8yRK5QZMsuiOrnDuM7V1ilwkRNcEhkIOSd55xCma5Z_T7zswRDTEb5Ob6vwI19a8eH9AnHOinVBRSp1c=m37
 
@@ -17,7 +32,6 @@ https://lh3.googleusercontent.com/pnK95j-chNw62r1qKoGRNNNLsJo8BU5km8taf0OX4GZQfL
 #EXTINF:-1,Snoopy Presenta Por los viejos tiempos (2021)
 https://lh3.googleusercontent.com/WlGBbyOjFjtQEqEQQeCepfJzO3jFwiBvnw4ojXj-0JAK05s0JjHRyJaa2D-SmdUeHG9f3JFFWymvP4rtpM-TmdWQDwAqgODhyVNgxEnHY4-Jd088SSojJCrcpYq4NcNdWiMvaVd_4z8=m37
 
-
 #EXTINF:-1,South Park Post Covid (2021)
 https://lh3.googleusercontent.com/Sl9t3J9dxHyHpZ6S3WuQCv-sMRgl_pxzJBK1nXUVNpSsdygJUNXgVj8dELrzmOmQP4Wtd1gudBUOEbfUs8uninHqJfHiWUmecHw2ODRYAwYZkExpxC7OaQ3siIgeeYi5UcPGzCoIMWE=m18
 
@@ -28,6 +42,7 @@ https://lh3.googleusercontent.com/JfjFc6gWv3mBtDf8-E7lGDzZCVLerjs4aYRVHFgxaR8dP9
 https://lh3.googleusercontent.com/9HkIsT4p92rFcPbjtjMxQUmvQGOI-mgJIYd2C4fi0IKNPKFoGnuKPggPKclSpUh9wDWlUzKoggvX14UQYA79VO0yVxbOOUKaKzga4plQ1KQqgFpcAdb95KpaHNziMwtBQFFLUJQ9Id0=m37
 
 #EXTINF:-1,Spider Man 2 (2004)
+https://lh3.googleusercontent.com/gW81lG-njMbHSTM2kr18W_fFEE4SIrEA8XwFeNQpk-YI5nbiEsq2sBXh_F0kQZxpjp4M89csG9EfP9XCnoIkl0D8mqArOcR4uQP5SZU7jcNfjGlGXaYHASD8uZhOnUXyX5Eu6JNQP-E=m37
 
 #EXTINF:-1,Spider Man 3 (2007)
 https://lh3.googleusercontent.com/SvspKlulVjxq_KJOwXhSyr9smch_dmscM2XFWWdhsuyZUPxJqQsJzYU4Rl8yfrVP4RS98Z91mPjNmm1IuVBR-SXjMPnPxR2nypGuBmZOAS4vu6S10n0vpSYUvzcKAWWInz7Eymaii3U=m18
