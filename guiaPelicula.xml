@@ -205,13 +205,13 @@
 
   </programme>
 
-     <programme start="20171217130000 -0300" stop="20181216144800 -0300" channel="Kingsman - El Circulo de Oro (2017)">
+     <programme start="20171217130000 -0300" stop="20181216144800 -0300" channel="King’s Man - El Circulo de Oro (2017)">
     <title lang="es">Calificación 7.0</title>
     <desc lang="es">Cuando el cuartel general de la agencia segrega es destruido, se descubre una organización de espionaje aliada en EE.UU. llamada Statesman, cuyo origen se remonta a la data en que las dos fueron fundadas. En una nueva aventura que prueba la fuerza y el ingenio de sus agentes, las dos organizaciones segregas de élite reúnen sus sacrificios para procurar derrotar a su contrincante común y salvar al planeta… algo que está transformándose en una suerte de hábito para Eggsy.</desc>
 
 
   </programme>
-  <programme start="20181216144800 -0300" stop="20191216144800 -0300" channel="Kingsman - El Circulo de Oro (2017)">
+  <programme start="20181216144800 -0300" stop="20191216144800 -0300" channel="King’s Man - El Circulo de Oro (2017)">
     <title lang="es">Calificación 7.0</title>
     <desc lang="es">Cuando el cuartel general de la agencia segrega es destruido, se descubre una organización de espionaje aliada en EE.UU. llamada Statesman, cuyo origen se remonta a la data en que las dos fueron fundadas. En una nueva aventura que prueba la fuerza y el ingenio de sus agentes, las dos organizaciones segregas de élite reúnen sus sacrificios para procurar derrotar a su contrincante común y salvar al planeta… algo que está transformándose en una suerte de hábito para Eggsy.</desc>
 
@@ -15541,13 +15541,67 @@ Edward, por otra parte, está más interesado en el rock ‘n’ roll, tiene un 
           <desc lang="es">Las hermanastras Ida y Tuva sufren un accidente durante una sesión de buceo invernal en el norte de Noruega. Tuva queda atrapada a 30 metros de profundidad e Ida tendrá que poner a prueba sus habilidades para manejar la crisis. Sin ayuda del mundo exterior las hermanas deben resolver la situación por sus propios medios.</desc>
         </programme>
 
-        <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="">
-          <title lang="es">Calificación </title>
-          <desc lang="es"></desc>
+        <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="Kimi: Alguien está escuchando (2022)">
+          <title lang="es">Calificación 6.8</title>
+          <desc lang="es">La historia se centra en una trabajadora de tecnología agorafóbica que descubre evidencia registrada de un violento crimen durante una revisión del flujo de datos. Después de ser golpeada con resistencia y burocracia por el cambio de mando de su compañía, determina combatir sus miedos para involucrarse.</desc>
         </programme>
-        <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="">
-          <title lang="es">Calificación </title>
-          <desc lang="es"></desc>
+        <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="Kimi: Alguien está escuchando (2022)">
+          <title lang="es">Calificación 6.8</title>
+          <desc lang="es">La historia se centra en una trabajadora de tecnología agorafóbica que descubre evidencia registrada de un violento crimen durante una revisión del flujo de datos. Después de ser golpeada con resistencia y burocracia por el cambio de mando de su compañía, determina combatir sus miedos para involucrarse.</desc>
+        </programme>
+
+        <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="El callejón de las almas perdidas (2021)">
+          <title lang="es">Calificación 7.7</title>
+          <desc lang="es">Este lugar recoge a diferentes talentos, de los que Stanton sabrá sacarles partido, como es el caso de Molly, una joven extraordinaria con la que se marchará a la ciudad para crear su propio espectáculo. Pero, no satisfecho con este triunfo, Stanto se aliará con una misteriosa mujer llamada Lillith para crear un peligroso entramado para alcanzar el mayor éxito posible.</desc>
+        </programme>
+        <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="El callejón de las almas perdidas (2021)">
+          <title lang="es">Calificación 7.7</title>
+          <desc lang="es">Este lugar recoge a diferentes talentos, de los que Stanton sabrá sacarles partido, como es el caso de Molly, una joven extraordinaria con la que se marchará a la ciudad para crear su propio espectáculo. Pero, no satisfecho con este triunfo, Stanto se aliará con una misteriosa mujer llamada Lillith para crear un peligroso entramado para alcanzar el mayor éxito posible.</desc>
+        </programme>
+
+        <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="King’s Man El origen (2021)">
+          <title lang="es">Calificación 7.0</title>
+          <desc lang="es">Cuando un grupo formado por los tiranos y las mentes criminales más malvadas de la historia se une para desencadenar una guerra que matará a millones de personas, un hombre tendrá que luchar a contrarreloj para detenerlos.</desc>
+        </programme>
+        <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="King’s Man El origen (2021)">
+          <title lang="es">Calificación 7.0</title>
+          <desc lang="es">Cuando un grupo formado por los tiranos y las mentes criminales más malvadas de la historia se une para desencadenar una guerra que matará a millones de personas, un hombre tendrá que luchar a contrarreloj para detenerlos.</desc>
+        </programme>
+
+        <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="La masacre de Texas (2022)">
+          <title lang="es">Calificación 6.5</title>
+          <desc lang="es">Melody, su hermana adolescente Lila y sus amigos Dante y Ruth viajan al remoto pueblo de Harlow (Texas) para montar un negocio muy idealista. Pero su sueño se convierte en una auténtica pesadilla cuando molestan sin querer a Leatherface, el desquiciado asesino en serie cuyo sangriento legado sigue acechando a los habitantes de la zona, entre ellos Sally Hardesty, la única superviviente de su masacre de 1973, decidida a vengarse a muerte.</desc>
+        </programme>
+        <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="La masacre de Texas (2022)">
+          <title lang="es">Calificación 6.5</title>
+          <desc lang="es">Melody, su hermana adolescente Lila y sus amigos Dante y Ruth viajan al remoto pueblo de Harlow (Texas) para montar un negocio muy idealista. Pero su sueño se convierte en una auténtica pesadilla cuando molestan sin querer a Leatherface, el desquiciado asesino en serie cuyo sangriento legado sigue acechando a los habitantes de la zona, entre ellos Sally Hardesty, la única superviviente de su masacre de 1973, decidida a vengarse a muerte.</desc>
+        </programme>
+
+        <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="King’s Man Servicio Secreto (2014)">
+          <title lang="es">Calificación 8.3</title>
+          <desc lang="es">Un veterano agente secreto inglés (Colin Firth) debe entrenar a un joven sin refinar (Taron Egerton), pero que promete convertirse en un competitivo agente gracias a un ultra-programa de entrenamiento, al mismo tiempo que una amenaza global emerge procedente de un genio retorcido. Adaptación del cómic de Mark Millar y Dave Gibbons.</desc>
+        </programme>
+        <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="King’s Man Servicio Secreto (2014)">
+          <title lang="es">Calificación 8.3</title>
+          <desc lang="es">Un veterano agente secreto inglés (Colin Firth) debe entrenar a un joven sin refinar (Taron Egerton), pero que promete convertirse en un competitivo agente gracias a un ultra-programa de entrenamiento, al mismo tiempo que una amenaza global emerge procedente de un genio retorcido. Adaptación del cómic de Mark Millar y Dave Gibbons.</desc>
+        </programme>
+
+        <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="Masacre en Texas: Herencia maldita (2013)">
+          <title lang="es">Calificación 6.0</title>
+          <desc lang="es">Secuela del film de Tobe Hooper (1974). El pueblo de Newt (Texas) se vengó de la familia Sawyer por haber ocultado los asesinatos cometidos por Jeb Sawyer, el maníaco de la motosierra, también conocido como “Cara de cuero”. Cuando la gente del pueblo, dirigida por Burt Hartman, quemó su granja, se dio por supuesto que toda la familia había muerto, pero el bebé de los Sawyer sobrevivió. Gavin y Arlene, dos de los vigilantes pueblerinos, se la llevaron en secreto y la criaron como si fuera su hija con el nombre de Heather. A los veinte años, cuando descubrió que había sido adoptada, un abogado la localizó para comunicarle que su abuela la había nombrado heredera de sus bienes.</desc>
+        </programme>
+        <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="Masacre en Texas: Herencia maldita (2013)">
+          <title lang="es">Calificación 6.0</title>
+          <desc lang="es">Secuela del film de Tobe Hooper (1974). El pueblo de Newt (Texas) se vengó de la familia Sawyer por haber ocultado los asesinatos cometidos por Jeb Sawyer, el maníaco de la motosierra, también conocido como “Cara de cuero”. Cuando la gente del pueblo, dirigida por Burt Hartman, quemó su granja, se dio por supuesto que toda la familia había muerto, pero el bebé de los Sawyer sobrevivió. Gavin y Arlene, dos de los vigilantes pueblerinos, se la llevaron en secreto y la criaron como si fuera su hija con el nombre de Heather. A los veinte años, cuando descubrió que había sido adoptada, un abogado la localizó para comunicarle que su abuela la había nombrado heredera de sus bienes.</desc>
+        </programme>
+
+        <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="La masacre de Texas (2003)">
+          <title lang="es">Calificación 7.0</title>
+          <desc lang="es">Durante un viaje de Texas a México, un grupo de jóvenes recoge a una autoestopista ensangrentada que asegura que es la única superviviente de una masacre ocurrida la noche anterior en una casa cercana. Remake del clásico homónimo de Tobe Hooper (1974).</desc>
+        </programme>
+        <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="La masacre de Texas (2003)">
+          <title lang="es">Calificación 7.0</title>
+          <desc lang="es">Durante un viaje de Texas a México, un grupo de jóvenes recoge a una autoestopista ensangrentada que asegura que es la única superviviente de una masacre ocurrida la noche anterior en una casa cercana. Remake del clásico homónimo de Tobe Hooper (1974).</desc>
         </programme>
 
         <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="">
