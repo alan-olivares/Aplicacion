@@ -15955,6 +15955,33 @@ Edward, por otra parte, está más interesado en el rock ‘n’ roll, tiene un 
           <desc lang="es">Cuando dos hombres que viajan por el desierto descubren el pedrusco de oro más grande que han visto en su vida, empiezan a soñar con la riqueza que les traerá, pero la avaricia toma las riendas. Tienen que extraer el oro de la tierra y para ello trazan un plan en el que uno de ellos tiene que ir a por el equipo necesario y el otro se tiene que quedar allí solo a su suerte.</desc>
         </programme>
 
+        <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="Relatos Salvajes (2014)">
+          <title lang="es">Calificación 8.1</title>
+          <desc lang="es">La película consta de seis episodios que alternan la intriga, la comedia y la violencia. Sus personajes se verán empujados hacia el abismo y hacia el innegable placer de perder el control, cruzando la delgada línea que separa la civilización de la barbarie.</desc>
+        </programme>
+        <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="Relatos Salvajes (2014)">
+          <title lang="es">Calificación 8.1</title>
+          <desc lang="es">La película consta de seis episodios que alternan la intriga, la comedia y la violencia. Sus personajes se verán empujados hacia el abismo y hacia el innegable placer de perder el control, cruzando la delgada línea que separa la civilización de la barbarie.</desc>
+        </programme>
+
+        <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="Uncharted: fuera del mapa (2022)">
+          <title lang="es">Calificación 7.0</title>
+          <desc lang="es">Basada en una de las series de videojuegos más vendidas y aclamadas por la crítica de todos los tiempos, «Uncharted» presenta a un joven, astuto y carismático, Nathan Drake (Tom Holland) en su primera aventura como cazatesoros con su ingenioso compañero Victor “Sully” Sullivan (Mark Wahlberg). En una aventura de acción que se extiende por todo el mundo, ambos se embarcan en una peligrosa búsqueda de “el mayor tesoro nunca antes encontrado” al tiempo que rastrean las claves que les podrían conducir al hermano de Nathan, perdido hace ya mucho tiempo.</desc>
+        </programme>
+        <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="Uncharted: fuera del mapa (2022)">
+          <title lang="es">Calificación 7.0</title>
+          <desc lang="es">Basada en una de las series de videojuegos más vendidas y aclamadas por la crítica de todos los tiempos, «Uncharted» presenta a un joven, astuto y carismático, Nathan Drake (Tom Holland) en su primera aventura como cazatesoros con su ingenioso compañero Victor “Sully” Sullivan (Mark Wahlberg). En una aventura de acción que se extiende por todo el mundo, ambos se embarcan en una peligrosa búsqueda de “el mayor tesoro nunca antes encontrado” al tiempo que rastrean las claves que les podrían conducir al hermano de Nathan, perdido hace ya mucho tiempo.</desc>
+        </programme>
+
+        <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="Batman (2022)">
+          <title lang="es">Calificación 8.1</title>
+          <desc lang="es">Cada noche Bruce Wayne se enmascara en la identidad de Batman para sumergirse en las profundidades de Gotham City. En su lucha contra el crimen únicamente cuenta con el apoyo de Alfred Pennyworth y la ayuda del teniente James Gordon, dentro de una blindada red de corrupción policial. Un nuevo asesino pone la mirada en algunos de los ciudadanos de Gotham creando una serie de sádicas maquinaciones que, mediante un rastro de pistas en forma de rompecabezas, llevarán a Batman por un camino turbulento y despiadado.</desc>
+        </programme>
+        <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="Batman (2022)">
+          <title lang="es">Calificación 8.1</title>
+          <desc lang="es">Cada noche Bruce Wayne se enmascara en la identidad de Batman para sumergirse en las profundidades de Gotham City. En su lucha contra el crimen únicamente cuenta con el apoyo de Alfred Pennyworth y la ayuda del teniente James Gordon, dentro de una blindada red de corrupción policial. Un nuevo asesino pone la mirada en algunos de los ciudadanos de Gotham creando una serie de sádicas maquinaciones que, mediante un rastro de pistas en forma de rompecabezas, llevarán a Batman por un camino turbulento y despiadado.</desc>
+        </programme>
+
         <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="">
           <title lang="es">Calificación </title>
           <desc lang="es"></desc>
@@ -15963,7 +15990,4 @@ Edward, por otra parte, está más interesado en el rock ‘n’ roll, tiene un 
           <title lang="es">Calificación </title>
           <desc lang="es"></desc>
         </programme>
-
-
-
 </tv>
