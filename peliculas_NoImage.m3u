@@ -1,9 +1,33 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/alan-olivares/Aplicacion/master/guiaPelicula.xml"
+#EXTINF:-1,The Valet (2022)
+https://lh3.googleusercontent.com/9xHA1F2ZbpCog68uBqCFgeTSNTAQCya5ZQYqvosEfp4mttu0t59qOCsCkCtPIy-fHQYbfZ7gnCViChw8jYraQnc7jhgfvPnwDIdccwKE93jqBiS0BVO6KGv_KniqfidvUoHAo89Tvb8=m37
+
+#EXTINF:-1,Chip y Dale: Al rescate (2022)
+https://lh3.googleusercontent.com/WUEMt7btLqN13eOSBdOl9cZAUlyGUk_gint-J_Z2orMJ3YcFqWRFVF0HXpBVMcK5eD5oCDFXnUS4ZQ5YzZE4-PKep1TtMAolSDMjRDoU6U4cKzgNSCQrYo52eVy-nTHbXzqWBX-MFrA=m37
+
+#EXTINF:-1,Memory (2022)
+https://lh3.googleusercontent.com/12_gQeLgpKegmnsJEBzadLDDmbwhMxQoFdarLfF93sjOi86-zJLnSeGjEbspAOY9zJrwiifQSUN-_ml3zcUXh5KhSFG_vJVKM2OvZ0mf1oeSyr4w6diJePx33yGqVaMRJJiI7Cy62Qo=m37
+
+#EXTINF:-1,Jackass 4.5 (2022)
+https://lh3.googleusercontent.com/e9cL1c_IVxcLmQlDjqQMeWnQfOhpHIwPDxg6P77bo8ucuJQ5gTXxNrq_EPw72ADfg5E8sN2TXAQzuphSP30-Q7e2BaYdKx-Q1G5k1VKHhaeze3H9IoajPd5uV8d_f6f79sC6YjJleW0=m37
+
+#EXTINF:-1,Bull: La hora de la venganza (2021)
+https://lh3.googleusercontent.com/QgqnB28n6yMb_Ar5fDH-Wkis20wr9bcVW04oBqPtgF7wjgai6EablDTeiGHQp5wncU5rAYdFDfE4v5F-yxNWvigihZwnr_qWgLe-n6PHN1fe0MzI_YstzdTZyUxM9Igt_-m2PQngoPc=m37
+
+#EXTINF:-1,EXIT: Escape de Seúl (2019)
+https://lh3.googleusercontent.com/PMq-BXf3gquxWGOjGukLEYq1-j2IvKcwmAP1_8SFfmEri2Sr6KMxHsLlFaugv7i7CC0pMxXn7d9rnZTmVr_QcyvdBt12fBkT8OQIwKi0KNspruRFzoh9OQNgjgw1n0RYYl5xDRdTWA8=m18
+
+#EXTINF:-1,Jersey (2022)
+https://lh3.googleusercontent.com/Hp0cqUrq4PWLxdIA392ULBqwXnR1vk3V333l5FfC3RX9aHecyHT2qJcWm7s5azCV8Tz8nwJ_MhxkmnkKsNK32kYrzpM28IowE7MVEjSt53AehqgWqx3umPM_v9HzfB0pDWrJV7dlzKU=m37
+
+#EXTINF:-1,Un maridaje perfecto (2022)
+https://lh3.googleusercontent.com/Q4GBnsdh9_tsTe8YpAKRxtxqdT4KOPSa4GYszQ27aGC21YqKrDuoZjrVucmxQUcKF4xRRY_0s5WkZijEdTf1fiRp2C3L1UzyS1x_hDr4dreG6cOWOyrl207ptarfLMqMfmoXjK2Eg7g=m37
+
 #EXTINF:-1,Morbius (2022)
-https://lh3.googleusercontent.com/FASG40EiYfxgkZg4xEr1vbLbv-ah3j_i1x-2uySKTzWwqMgGybmuoE0Aq-Ar1y7N8mjQ5Rvy38liu4SZBwhMm7fHe_RlFJd7cF4eaeZocvswxUCZKMby_2nvTgu8oz4QbDZ9iXdbaDs=m37
+https://lh3.googleusercontent.com/FASG40EiYfxgkZg4xEr1vbLbv-ah3j_i1x-2uySKTzWwqMgGybmuoE0Aq-Ar1y7N8mjQ5Rvy38liu4SZBwhMm7fHe_RlFJd7cF4eaeZocvswxUCZKMby_2nvTgu8oz4QbDZ9iXdbaDs=m18
 
 #EXTINF:-1,El Hombre Del Norte (2022)
-https://lh3.googleusercontent.com/z9ZRJHmzwkBnp7Ej2Q11_tmxobMpVq8rTMB7YDaoay-JjLKhmofOvNi8sBh2oPO78LjGEs61HN6lViKiZYl4WXFrUKGyl6DkZ_CDYPwIqS2siCVU2L_Rp4hZ3LvZDGWBdWvU16Mkiqw=m37
+https://lh3.googleusercontent.com/z9ZRJHmzwkBnp7Ej2Q11_tmxobMpVq8rTMB7YDaoay-JjLKhmofOvNi8sBh2oPO78LjGEs61HN6lViKiZYl4WXFrUKGyl6DkZ_CDYPwIqS2siCVU2L_Rp4hZ3LvZDGWBdWvU16Mkiqw=m18
 
 #EXTINF:-1,Small Engine Repair (2022)
 https://lh3.googleusercontent.com/WBZCVCM4YztntCio6Q2qpB4k4_uFY3JvzeDInIEVlGDRT0R-2fPfT5NsHoY4vY4__SjjoXeHJIGaEpSUUULaLn6tXHIUvmCW-r9wofrNv9vpgLSDY9_xU73g7780Qh7QbdIJCBoyeEw=m37
