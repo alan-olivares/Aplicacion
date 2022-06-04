@@ -2422,13 +2422,40 @@
        <desc lang="es">La azafata de vuelo Cassandra Bowden se despierta en su habitación de hotel con resaca de la noche anterior con un cuerpo sin vida a su lado. Temerosa de llamar a la policía, continúa con su mañana como si nada hubiese ocurrido, reuniéndose con los demás operarios en el aeropuerto. En Nueva York recibe la visita de un grupo de agentes del FBI que la interrogan sobre sus acciones en Dubai. Incapaz de recordar exactamente lo que ha sucedido, comienza a preguntarse si es posible que sea ella la responsable del asesinato.</desc>
      </programme>
 
-     <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="">
-       <title lang="es">Calificación </title>
-       <desc lang="es"></desc>
+     <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="Cómo criar a un superhéroe">
+       <title lang="es">Calificación 7.1</title>
+       <desc lang="es">Un destino indescifrable ya se llevó a su marido. Ahora una nube de poderes misteriosos envuelve a su hijito, y hará lo que sea para que nada ni nadie lo lastime.</desc>
      </programme>
-     <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="">
-       <title lang="es">Calificación </title>
-       <desc lang="es"></desc>
+     <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="Cómo criar a un superhéroe">
+       <title lang="es">Calificación 7.1</title>
+       <desc lang="es">Un destino indescifrable ya se llevó a su marido. Ahora una nube de poderes misteriosos envuelve a su hijito, y hará lo que sea para que nada ni nadie lo lastime.</desc>
+     </programme>
+
+     <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="Cielo nocturno">
+       <title lang="es">Calificación 7.5</title>
+       <desc lang="es">Cielo nocturno es una serie de ciencia ficción que sigue la historia de Franklin e Irene York, una pareja que hace años descubrió una cámara enterrada en el patio trasero de su casa y que inexplicablemente conduce a un extraño planeta totalmente desierto.</desc>
+     </programme>
+     <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="Cielo nocturno">
+       <title lang="es">Calificación 7.5</title>
+       <desc lang="es">Cielo nocturno es una serie de ciencia ficción que sigue la historia de Franklin e Irene York, una pareja que hace años descubrió una cámara enterrada en el patio trasero de su casa y que inexplicablemente conduce a un extraño planeta totalmente desierto.</desc>
+     </programme>
+
+     <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="Las Bravas F.C.">
+       <title lang="es">Calificación 7.0</title>
+       <desc lang="es">Las Bravas F.C. es una serie mexicana es una historia donde el fútbol servirá como metáfora para narrar la historia poderosa y valiente de una ex estrella del fútbol internacional y el reencuentro con sus raíces, y donde un grupo de amigas descubre su valor dentro y fuera de la cancha en un pueblo que busca una manera de reconocerse.</desc>
+     </programme>
+     <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="Las Bravas F.C.">
+       <title lang="es">Calificación 7.0</title>
+       <desc lang="es">Las Bravas F.C. es una serie mexicana es una historia donde el fútbol servirá como metáfora para narrar la historia poderosa y valiente de una ex estrella del fútbol internacional y el reencuentro con sus raíces, y donde un grupo de amigas descubre su valor dentro y fuera de la cancha en un pueblo que busca una manera de reconocerse.</desc>
+     </programme>
+
+     <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="Your Honor">
+       <title lang="es">Calificación 7.6</title>
+       <desc lang="es">Your Honor es un thiller legal que afecta a todos los estratos de la sociedad de Nueva Orleans. El hijo de un juez muy respetado se ve inmerso en una persecución que lleva a importantes mentiras, engaños y decisiones imposibles.</desc>
+     </programme>
+     <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="Your Honor">
+       <title lang="es">Calificación 7.6</title>
+       <desc lang="es">Your Honor es un thiller legal que afecta a todos los estratos de la sociedad de Nueva Orleans. El hijo de un juez muy respetado se ve inmerso en una persecución que lleva a importantes mentiras, engaños y decisiones imposibles.</desc>
      </programme>
 
      <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="">
