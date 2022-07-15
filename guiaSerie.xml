@@ -2494,6 +2494,42 @@
        <desc lang="es">La Escalera es una serie ficción del famoso sobre el famoso caso de Michael Peterson, que fue acusado de asesinar a su mujer Kathleen en 2001. Tan mediático fue el caso que consiguió tener varios libros y una serie documental que siguió años después la propia Netflix.</desc>
      </programme>
 
+     <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="Star Trek: Extraños nuevos mundos">
+       <title lang="es">Calificación 8.2</title>
+       <desc lang="es">Star Trek: Extraños nuevos mundos sigue las aventuras de Christopher Pike, Número Uno y el oficial Spock mientras exploran nuevos mundos alrededor de la galaxia una década antes de que el capitán Kirk abordase la U.S.S. Enterprise.</desc>
+     </programme>
+     <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="Star Trek: Extraños nuevos mundos">
+       <title lang="es">Calificación 8.2</title>
+       <desc lang="es">Star Trek: Extraños nuevos mundos sigue las aventuras de Christopher Pike, Número Uno y el oficial Spock mientras exploran nuevos mundos alrededor de la galaxia una década antes de que el capitán Kirk abordase la U.S.S. Enterprise.</desc>
+     </programme>
+
+     <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="Valley of Tears">
+       <title lang="es">Calificación 7.6</title>
+       <desc lang="es">Valley of Tears es una serie drama que se basa en hechos reales con cuatro historias principales y muy personales de personas que han tenido que alejarse de sus seres queridos debido a la Guerra de Yom Kipur en 1973. Aunque cada historia sea diferente, tienen en común sobrevivir a una cruenta batalla.</desc>
+     </programme>
+     <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="Valley of Tears">
+       <title lang="es">Calificación 7.6</title>
+       <desc lang="es">Valley of Tears es una serie drama que se basa en hechos reales con cuatro historias principales y muy personales de personas que han tenido que alejarse de sus seres queridos debido a la Guerra de Yom Kipur en 1973. Aunque cada historia sea diferente, tienen en común sobrevivir a una cruenta batalla.</desc>
+     </programme>
+
+     <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="La lista terminal">
+       <title lang="es">Calificación 8.2</title>
+       <desc lang="es">La lista terminal es una miniserie de drama y suspenso protagonizada por Chris Pratt y desarrollada para Amazon Prime Video. Inspirada en la novela del mismo nombre del autor Jack Carr, la serie gira en torno a la historia de James Reece, un agente de Navy SEAL, después de que su pelotón es emboscado en una misión secreta.</desc>
+     </programme>
+     <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="La lista terminal">
+       <title lang="es">Calificación 8.2</title>
+       <desc lang="es">La lista terminal es una miniserie de drama y suspenso protagonizada por Chris Pratt y desarrollada para Amazon Prime Video. Inspirada en la novela del mismo nombre del autor Jack Carr, la serie gira en torno a la historia de James Reece, un agente de Navy SEAL, después de que su pelotón es emboscado en una misión secreta.</desc>
+     </programme>
+
+     <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="">
+       <title lang="es">Calificación </title>
+       <desc lang="es"></desc>
+     </programme>
+     <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="">
+       <title lang="es">Calificación </title>
+       <desc lang="es"></desc>
+     </programme>
+
      <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="">
        <title lang="es">Calificación </title>
        <desc lang="es"></desc>

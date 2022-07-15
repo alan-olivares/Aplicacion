@@ -1,4 +1,25 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/alan-olivares/Aplicacion/master/guiaPelicula.xml"
+#EXTINF:-1 group-title="Peliculas",El teléfono negro (2021)
+https://lh3.googleusercontent.com/P3tQCEXjqYB-NsPzROV8Ant7fVwb9hIcMeYvVedfvrApJ3Y4uqhH5qYIbSknv9PTS7_9gzuJ7aMjndCO9y8PSQJNynnn58WTw6NGVETOIiLoP9ivT1zqyTqr0IApEg_jlnTc9Ouxcw=m37
+
+#EXTINF:-1 group-title="Peliculas",Jurassic World Dominion (2022)
+https://lh3.googleusercontent.com/4JPO8eHkSK8P_HKUD0_OkhV0wmOwKXdLIkaRnecIfAbMuDkWOL1AqeHZHiMy2hzPBznNWf6OcgaAlgeDPSuZe981bGbCi3ozKrBvnJdJfwx8kXIGkfNwPrcEXXVAo_9ZK9W_K29j5A=m37
+
+#EXTINF:-1 group-title="Peliculas",El Hombre de Toronto (2022)
+https://lh3.googleusercontent.com/3OiRawD6y9n8NtvATOHV3A7ulpnrSJbHpjCKQm0fHJ22-TSKIIJRFNtYNy0WmgjD6EJr7rKFQkIDNvygWbw7daRd37L2vmK-tj5DVQRV5FX3n0ghp29DLCMZbwoqy8U5bUIj0aJiPA=m37
+
+#EXTINF:-1 group-title="Peliculas",Romance a la Carta (2020)
+https://lh3.googleusercontent.com/sYOkiK57D93H0VSV0255bXAx4uykoJS7ObFaAnu8hCSOIqL10Pwa9hnPp9n78klaSxL9jMMc5eiBGm9elz4mQt1bE9aoHNR0qX2vBsYmC60EZ-O77Dc1UJYyNSTzLwicETXqdAAyhw=m37
+
+#EXTINF:-1 group-title="Peliculas",Misterio en Marbella (2022)
+https://lh3.googleusercontent.com/na6xKj6oEIB9-gQrUVWCG44q1rf26Hu5v10jxylLweHaMRiRiIj4Uhixe_qwEG_JclZ4fn0LuXHOr1g0d60VFo30RSsq-QlsmPCPXnM8ac5lTCVGYDrMUBo6lpQqo3Mc8YXRaJPX7A=m37
+
+#EXTINF:-1 group-title="Peliculas",Y cómo es él (2020)
+https://lh3.googleusercontent.com/Wu0Tx8ZlgxljUPjtW2LT40zh8T7q5N72o-PdR_yGzgQLoK9lWO6QZ9VR_CiRnyV0lemi6wPg5PQ8L4en9CtPR-OErYbXTZvEAfwY7kNewbvfRWsKM2p3QBR9n9YjuCkaf4aBztinRA=m18
+
+#EXTINF:-1 group-title="Peliculas",Sed de Venganza (2022)
+https://lh3.googleusercontent.com/DEHuflD4qsJJnnNEZ_orBTqC9jOQAlxEwKqKNkP2uW4QB-jkMNXIh5uMluwcdNFTFTHhM0RAkBxtxSgLCQWrgMUNLRqunzNJU_V9hLREDmzmayTF7P89m6OXR0QeoAg8EGtX1H5RPw=m37
+
 #EXTINF:-1 group-title="Peliculas",Doctor Strange en el Multiverso de la Locura (2022)
 https://lh3.googleusercontent.com/Pn-AjLUhVNCwFEuz1C6rXsHji9lu3cIV8Ss1K14cxZbZiy_WC0QSbscuEU7vTeC3ADrAfKh_6DA-i2WpvK3_94L6xYpd5b6zhIiyot-l-40nzxJtmWLr4XfE8Y3W38ZhmLAhO-9Xgb4=m37
 
