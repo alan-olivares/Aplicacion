@@ -2521,6 +2521,42 @@
        <desc lang="es">La lista terminal es una miniserie de drama y suspenso protagonizada por Chris Pratt y desarrollada para Amazon Prime Video. Inspirada en la novela del mismo nombre del autor Jack Carr, la serie gira en torno a la historia de James Reece, un agente de Navy SEAL, después de que su pelotón es emboscado en una misión secreta.</desc>
      </programme>
 
+     <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="The White Lotus">
+       <title lang="es">Calificación 7.6</title>
+       <desc lang="es">The White Lotus es una miniserie que se ambienta en un exclusivo y paradisíaco resort tropical. La historia sigue a varios huéspedes de este maravilloso hotel y a sus empleados durante el lapso de una semana. Aunque pueda parecer poco tiempo, en siete días puede ocurrir de todo. Entre los empleados del resort se encuentra Armond, un quisquilloso gerente que después de un trauma repentino, comienza una dramática espiral descendente.</desc>
+     </programme>
+     <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="The White Lotus">
+       <title lang="es">Calificación 7.6</title>
+       <desc lang="es">The White Lotus es una miniserie que se ambienta en un exclusivo y paradisíaco resort tropical. La historia sigue a varios huéspedes de este maravilloso hotel y a sus empleados durante el lapso de una semana. Aunque pueda parecer poco tiempo, en siete días puede ocurrir de todo. Entre los empleados del resort se encuentra Armond, un quisquilloso gerente que después de un trauma repentino, comienza una dramática espiral descendente.</desc>
+     </programme>
+
+     <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="Inventing Anna">
+       <title lang="es">Calificación 7.0</title>
+       <desc lang="es">La historia se centra en Anna Delvey, una mujer que consiguió engañar a muchas de las sociedades más adineradas de Nueva York haciéndoles creer que era una heredera millonaria con acceso a un fondo de más de 60 millones de dólares.</desc>
+     </programme>
+     <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="Inventing Anna">
+       <title lang="es">Calificación 7.0</title>
+       <desc lang="es">La historia se centra en Anna Delvey, una mujer que consiguió engañar a muchas de las sociedades más adineradas de Nueva York haciéndoles creer que era una heredera millonaria con acceso a un fondo de más de 60 millones de dólares.</desc>
+     </programme>
+
+     <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="Dopesick">
+       <title lang="es">Calificación 9.0</title>
+       <desc lang="es">La serie lleva a los espectadores al epicentro de la lucha de Estados Unidos con la adicción a los opioides, desde las salas de juntas de Big Pharma, a una comunidad minera de Virginia angustiada, a los pasillos de la DEA. Desafiando todas las probabilidades, los héroes emergerán en un viaje intenso y emocionante para derrotar a las cobardes fuerzas corporativas detrás de esta crisis nacional y sus aliados.</desc>
+     </programme>
+     <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="Dopesick">
+       <title lang="es">Calificación 9.0</title>
+       <desc lang="es">La serie lleva a los espectadores al epicentro de la lucha de Estados Unidos con la adicción a los opioides, desde las salas de juntas de Big Pharma, a una comunidad minera de Virginia angustiada, a los pasillos de la DEA. Desafiando todas las probabilidades, los héroes emergerán en un viaje intenso y emocionante para derrotar a las cobardes fuerzas corporativas detrás de esta crisis nacional y sus aliados.</desc>
+     </programme>
+
+     <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="">
+       <title lang="es">Calificación </title>
+       <desc lang="es"></desc>
+     </programme>
+     <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="">
+       <title lang="es">Calificación </title>
+       <desc lang="es"></desc>
+     </programme>
+
      <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="">
        <title lang="es">Calificación </title>
        <desc lang="es"></desc>
