@@ -2620,40 +2620,67 @@
        <desc lang="es">Sigue la vida del ícono de la música mexicana Vicente Fernández.</desc>
      </programme>
 
-     <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="">
-       <title lang="es">Calificación </title>
-       <desc lang="es"></desc>
+     <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="The Old Man">
+       <title lang="es">Calificación 7.7</title>
+       <desc lang="es">La historia gira entorno a Dan Chase, quien se fugó de la CIA muchos años atrás y ha estado viviendo apartado desde entonces. Un asesino intenta sacar eliminar a Chase, lo que pondrá en peligro su actual situación.</desc>
      </programme>
-     <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="">
-       <title lang="es">Calificación </title>
-       <desc lang="es"></desc>
-     </programme>
-
-     <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="">
-       <title lang="es">Calificación </title>
-       <desc lang="es"></desc>
-     </programme>
-     <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="">
-       <title lang="es">Calificación </title>
-       <desc lang="es"></desc>
+     <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="The Old Man">
+       <title lang="es">Calificación 7.7</title>
+       <desc lang="es">La historia gira entorno a Dan Chase, quien se fugó de la CIA muchos años atrás y ha estado viviendo apartado desde entonces. Un asesino intenta sacar eliminar a Chase, lo que pondrá en peligro su actual situación.</desc>
      </programme>
 
-     <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="">
-       <title lang="es">Calificación </title>
-       <desc lang="es"></desc>
+     <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="Woo. Una abogada extraordinaria">
+       <title lang="es">Calificación 9.0</title>
+       <desc lang="es">Dorama de 16 episodios. Woo, una abogada extraordinaria Sobre una abogada autista de 27 años. Debido a su coeficiente intelectual de 164, memoria impresionante y proceso de pensamiento creativo, la brillante Woo se graduó como la mejor de su clase en una prestigiosa facultad de derecho.</desc>
      </programme>
-     <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="">
-       <title lang="es">Calificación </title>
-       <desc lang="es"></desc>
+     <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="Woo. Una abogada extraordinaria">
+       <title lang="es">Calificación 9.0</title>
+       <desc lang="es">Dorama de 16 episodios. Woo, una abogada extraordinaria Sobre una abogada autista de 27 años. Debido a su coeficiente intelectual de 164, memoria impresionante y proceso de pensamiento creativo, la brillante Woo se graduó como la mejor de su clase en una prestigiosa facultad de derecho.</desc>
      </programme>
 
-     <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="">
-       <title lang="es">Calificación </title>
-       <desc lang="es"></desc>
+     <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="The Big Leap">
+       <title lang="es">Calificación 7.5</title>
+       <desc lang="es">The Big Leap Un grupo de personas diversas y de todos los ámbitos de la vida, compiten para ser parte de una serie de telerrealidad.</desc>
      </programme>
-     <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="">
-       <title lang="es">Calificación </title>
-       <desc lang="es"></desc>
+     <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="The Big Leap">
+       <title lang="es">Calificación 7.5</title>
+       <desc lang="es">The Big Leap Un grupo de personas diversas y de todos los ámbitos de la vida, compiten para ser parte de una serie de telerrealidad.</desc>
+     </programme>
+
+     <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="Stumptown">
+       <title lang="es">Calificación 7.5</title>
+       <desc lang="es">Stumptown es una adaptación de la novela gráfica homónima y gira en torno a Dex Parios, una inteligente investigadora de Portland y veterana del ejército con una personalidad fuerte y asertiva.</desc>
+     </programme>
+     <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="Stumptown">
+       <title lang="es">Calificación 7.5</title>
+       <desc lang="es">Stumptown es una adaptación de la novela gráfica homónima y gira en torno a Dex Parios, una inteligente investigadora de Portland y veterana del ejército con una personalidad fuerte y asertiva.</desc>
+     </programme>
+
+     <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="Narcosantos">
+       <title lang="es">Calificación 7.4</title>
+       <desc lang="es">Un empresario normal y corriente participa en una misión secreta del Gobierno para capturar a un narcotraficante coreano que opera en Sudamérica. Basada en hechos reales.</desc>
+     </programme>
+     <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="Narcosantos">
+       <title lang="es">Calificación 7.4</title>
+       <desc lang="es">Un empresario normal y corriente participa en una misión secreta del Gobierno para capturar a un narcotraficante coreano que opera en Sudamérica. Basada en hechos reales.</desc>
+     </programme>
+
+     <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="María Félix: La Doña">
+       <title lang="es">Calificación 7.2</title>
+       <desc lang="es">María Félix: La Doña es una serie biográfica para Televisa, basada en la famosa estrella del cine clásico mexicano María Félix «La Doña», inolvidable por su presencia.</desc>
+     </programme>
+     <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="María Félix: La Doña">
+       <title lang="es">Calificación 7.2</title>
+       <desc lang="es">María Félix: La Doña es una serie biográfica para Televisa, basada en la famosa estrella del cine clásico mexicano María Félix «La Doña», inolvidable por su presencia.</desc>
+     </programme>
+
+     <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="Cars Aventuras en el camino">
+       <title lang="es">Calificación 7.0</title>
+       <desc lang="es">Es una serie de animación spin-off de Cars, la famosa franquicia de animación de Disney. La trama sigue a Rayo McQueen y a su mejor amigo Mate en una nueva aventura que les lleva desde Radiador Springs hasta el este del país. Un viaje que tiene como propósito encontrar a la hermana de Mate.</desc>
+     </programme>
+     <programme start="20301216144800 -0300" stop="20311216144800 -0300" channel="Cars Aventuras en el camino">
+       <title lang="es">Calificación 7.0</title>
+       <desc lang="es">Es una serie de animación spin-off de Cars, la famosa franquicia de animación de Disney. La trama sigue a Rayo McQueen y a su mejor amigo Mate en una nueva aventura que les lleva desde Radiador Springs hasta el este del país. Un viaje que tiene como propósito encontrar a la hermana de Mate.</desc>
      </programme>
 
      <programme start="20171217130000 -0300" stop="20291216144800 -0300" channel="">
