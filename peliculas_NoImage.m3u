@@ -1,6 +1,33 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/alan-olivares/Aplicacion/master/guiaPelicula.xml"
+#EXTINF:-1 group-title="Peliculas",Black Adam (2022)
+https://lh3.googleusercontent.com/ks_mvbw-2Rv4VdMQ2p3Om1tviWoR68NUf8FEBYkC39U0ycVtyT9eEo1wLg1f-DB8J_qyhZ0GUMoSk-jyaBH8v-iyQf7Xqvjtyg1Urf4Uy1vNO11dDhZ1HCOwRtcvcTIBs4KhQCrG5A=m37
+
+#EXTINF:-1 group-title="Peliculas",Lilo-Lilo cocodrilo (2022)
+https://lh3.googleusercontent.com/OvKk4uTJysrxvTB9CsjDMBZDa8VZ1VEx2oDdZ1WHR5FEs-4ZLMeBmmyjBstLxydIYfLgVQt8NwltdPf_770hpWFHs7Jw3peWIU361Gn3UgjIvHR81ysuf0xI5LV45o0xjq6uV4Vd0A=m18
+
+#EXTINF:-1 group-title="Peliculas",El tiempo del Armagedón (2022)
+https://lh3.googleusercontent.com/AWJ4DYZJ_n74-jIVjVrS9hYYCv1KOxsK3NJS2wdHoCOjND7t676WxhvvVFGKJi4bbe1yOcv_MCzxtwJS9PbBHgdP7xLig1sYfORMxyVNgxq-o1xOGEgLwZE244Mw27EmCOwt130yoA=m37
+
+#EXTINF:-1 group-title="Peliculas",La mujer rey (2022)
+https://lh3.googleusercontent.com/wljRmbdhwLnIrm0GUWpvOVHxNWuJzSfXwBsVXTlaYEOeCR9xWEKBxCr1hK3Euw_NyjSbxBAOCyLzFb5QiOPUfXBIPzRJ8wgn4ru0L4TEH3BrqLXWAhXpw3ku7dlZav790YPIqJbWPQ=m37
+
+#EXTINF:-1 group-title="Peliculas",Desencantada (2022)
+https://lh3.googleusercontent.com/19ruOH17cS0Y8IbNlVFnD8KJNCzbYuiVwfFAnx6pFsm_5KwgEOcbX6tGpdXVhgV4kTj3hZpUvMhT5TQ9p7nqO-BeNYgyUbq8LlewqeQnPDLvaVkusEH_5u4mpK8CgXj3-mPfT-M7cA=m37
+
+#EXTINF:-1 group-title="Peliculas",La Gran Aventura de Blue en la Ciudad (2022)
+https://lh3.googleusercontent.com/LTD3YjHiLSNGQIi-LFMIAN3vz80hdtdBvc5lX9f31JE3jJggZbOfS_Q1aRHodQuoAIwtcPeP2IJEW7IdghCUABR3gwBohtaNjEOgss9NE02KW5Fesap7T2WgCYqOfvvlYBwmCVY6KA=m37
+
+#EXTINF:-1 group-title="Peliculas",Save the Cinema (2022)
+https://lh3.googleusercontent.com/L9nunt1hx-0GWLnHIsP0-Sqyt0fOKLFvXX8h6BFJjk0X-PXi1yPRbY9s_673BT9wQdcNANpVzNF0wc2zdZJxHLM8XTjGtQeeT7FLp3JyTDSu6ABa0cgqL5u_AdTc-jdJ118by1xpcQ=m37
+
+#EXTINF:-1 group-title="Peliculas",Resurrección (2022)
+https://lh3.googleusercontent.com/IquxQksb2PkSp_FwLvYcFI4hbbruhvh3V2313ZFXae-DN5h23WqUHINqfyipeYoIkhiz3pSvWZdCQmyhXWDu7SAVh2VbRzkWuGJRzIDItsThANlE8k_BJUTFWqo5Gg0v3oFd4gCsqg=m37
+
+#EXTINF:-1 group-title="Peliculas",Doble Venganza (2021)
+https://lh3.googleusercontent.com/RRLjPqXQ-aeYC_n9j684PKA46BGAitU11_19DSbJHsaFIGUvtx_H8eA8eyE_jsOQYQtXgTIicyo_WnL-CiFd_oa3ASMMVWgUMu2moX9uJ1HfYj-9NNTkR57mGB2Isfm4A4P7Ne4kAg=m37
+
 #EXTINF:-1 group-title="Peliculas",Smile (2022)
-https://lh3.googleusercontent.com/Jlan7bV28d1_CZfvV9GCPGBSNPNzijSFtkOETHFfM0EUYjPagz_iW0FULIHVriheWwYCwOG4wtovH3RcT_vJ-RcFD7jtBfJ-mUp-AVsK0RO7Dz0Ly_0UwQWpxw6QT5H7jfqXTtAzig=m18
+https://lh3.googleusercontent.com/Jlan7bV28d1_CZfvV9GCPGBSNPNzijSFtkOETHFfM0EUYjPagz_iW0FULIHVriheWwYCwOG4wtovH3RcT_vJ-RcFD7jtBfJ-mUp-AVsK0RO7Dz0Ly_0UwQWpxw6QT5H7jfqXTtAzig=m37
 
 #EXTINF:-1 group-title="Peliculas",Enola Holmes 2 (2022)
 https://lh3.googleusercontent.com/JZWhpaQgGldTrE5sbsMCn0m9t1u4qfK0HS8BJrQAbGiToVpfoDtBq-WSLqC79obKPJkGe0yW1_DfNDB7xywPVKzixU_8wbYbJGAhHvr7YdLWXdUnztQ_TtidiWWK73tL3OSsw_KUcg=m37
