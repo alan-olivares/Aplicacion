@@ -1,9 +1,65 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/alan-olivares/Aplicacion/master/guiaPelicula.xml"
+#EXTINF:-1 group-title="Peliculas",Desconectada (2023)
+https://lh3.googleusercontent.com/7bvkOn1B5H37_N9y5eymVXHgPipPjGHGkfVKng0JH9cNssUPDcdvseqe9wFo8iYS2f-rB5NLaHFGAd9xhc-unwI-v7n7BYNUTapTdqJkc9Jtv5_BYBPJrdjl0FrcXz6Bl3fOKZVO_Q=m37
+
+#EXTINF:-1 group-title="Peliculas",El estrangulador de Boston (2023)
+https://lh3.googleusercontent.com/pw/AMWts8DsqRiepzCpesWWmO4yNAwkiueeOSH0-H6XQDYxTFlPssc_AtX6ajKnryGPN1BVRoEvJ28GV0zkwZU125mgu_7wNc432lUMGz52ZE6sNMkU2XVYEj8=m37
+
+#EXTINF:-1 group-title="Peliculas",Oso Intoxicado (2023)
+https://lh3.googleusercontent.com/pw/AMWts8DWvQvGotB7AmjTXzroS8Z-XMF9PvtOEEcQv3MYyY-xFsWb0QxYHcKl81V5qapk3Hx4pFXixD9risGgNkou2huxkRJxBxKp9m9QB3UTkYsUFRP8vms=m37
+
+#EXTINF:-1 group-title="Peliculas",Babylon (2022)
+https://lh3.googleusercontent.com/pw/AMWts8CX4MUnbi49IqbGwTQ-P99lVUv1ii8d-MMwGOU_njHzH9ViP2HXuHSTq-arOCN421KmILVNZjsoFCIh73ZS4Y8pEZhzIFAUcCIv5DF8SBBHcpChMa8=m37
+
+#EXTINF:-1 group-title="Peliculas",Luther: Cae la noche (2023)
+https://lh3.googleusercontent.com/pw/AMWts8BFCaqHXsWlR6FBf0Di4wMMT0RxxoV0LSKHGkrEi2IK-pFZaW2T03bSqXjeZ-k5GRLbEsHma4XbraDq48bT2OusxzSp4y4n1S8jtn-kSsI-Qk3tBvI=m37
+
+#EXTINF:-1 group-title="Peliculas",Muerto por un Dolar (2022)
+https://lh3.googleusercontent.com/pw/AMWts8DXI3OlFMSFfJ-uDRHZl1O6jVuPzegWLjmL4lc4Aor6UrCb9M5WaU2mfrA1U_O09MUxEC9mquoywBmkUVs19GBjtw4jG67hjtNFgFnW0Z36k9rm5OU=m37
+
+#EXTINF:-1 group-title="Peliculas",Código revancha (2022)
+https://lh3.googleusercontent.com/pw/AMWts8DvzROdYHZK4dWS5boeO-AQKZECjQtM7_E6KXAECZ5oDchYNhj2y9b1KUluQgx_1y0us4YXp2cZIH5wuXgWHKS3fazw2n5oG-BelELHa3dxYYTVTvw=m37
+
+#EXTINF:-1 group-title="Peliculas",El Poderoso Victoria (2021)
+
+#EXTINF:-1 group-title="Peliculas",El vuelo de los ladrones (2023)
+https://lh3.googleusercontent.com/pw/AMWts8AKCfhNRflFuhMN20QjisWPuH6PCNxnEqseyO07RILTYNQUPbSw_S2OHWpY5AIH4DxRlkPidjBVYmUE8AJhWw8PC9M_1gKjf0ky3c0YYXu_8SZe5JU=m37
+
+#EXTINF:-1 group-title="Peliculas",Si tuviera 70 (2022)
+https://lh3.googleusercontent.com/pw/AMWts8BzzVFKWOa-xVaT7IoxQEm0YQHhozwscfpbdOtoII49OYvBS1lzCTlSHK5dcpwpr8850QL82qmM0PqGIsX0ic3WiVdAXgP1A8ShohfnRDzOLBjFQpg=m37
+
+#EXTINF:-1 group-title="Peliculas",November (2022)
+https://lh3.googleusercontent.com/pw/AMWts8D86f5gWiWuVNdIx1asa7g-ndL7FWnNmuVLPIde_HdOIR5NzzdsAIV6mhqmd5BixEwjkJGXINsgxO7ngXwl2hoAObLz0CBVS72Un0qtmhK-tOwJ33c=m37
+
+#EXTINF:-1 group-title="Peliculas",The Grandson (2022)
+https://lh3.googleusercontent.com/pw/AMWts8Bv9XBIVCXUukpe9wKoDJg-wKpkC68fLR4lFOueyhKJdoMn2GajE9IB0HC5OvCY4N9bh8kL8LYglQnZZCsyStWS_QQrcDkDaI8TwAdiq2U8TVDE-bo=m37
+
+#EXTINF:-1 group-title="Peliculas",Perro perdido (2023)
+https://lh3.googleusercontent.com/pw/AMWts8AftxJINrUHb1Ya-6ehTC2MucmbpwqfxvTb0atuawVax_jbD5DLdNjiPTGethvn7ivanLzXXdyORrDVuUUiViOmVAGPGC2sRMbvqOn886MiZAIGvjA=m37
+
+#EXTINF:-1 group-title="Peliculas",La Farsa (2022)
+https://lh3.googleusercontent.com/pw/AMWts8DoqoGmHwuvGYyIcm9z-KG63myGSB8OAgiGhIIFz859FRHKvtzPncEgm7h9l5lpGn51Eem0fxfmwMt2eyX_SXlQP6fY0GbUbizjqPiiC-molFMEjPk=m37
+
+#EXTINF:-1 group-title="Peliculas",80 for Brady (2023)
+https://lh3.googleusercontent.com/pw/AMWts8DO0cIrbbf0LkTydxKRrOdXzVPWaRRMU_ML5pJRL2z5OEXb5-Ui7zWeCi-zR8fBDOnFcq7niVN3nAs5kaO1zCQAKhJSfG-VXzuekida7iIKRtrUuMU=m37
+
+#EXTINF:-1 group-title="Peliculas",Tangos Tequilas y algunas mentiras (2023)
+https://lh3.googleusercontent.com/pw/AMWts8B8ZgyiJjqkUYGYe6d-gXZIk3QyUtmmwN4-qSmHeb010XvjmhyOCKGznztwYxd4_lYFfdLhicHctAgylxkX9byvc79WBjdguoYaDVau5ttF7GJv43k=m37
+
+#EXTINF:-1 group-title="Peliculas",Ya era hora (2022)
+https://lh3.googleusercontent.com/pw/AMWts8BNXaiXedl-7eGTGPlCHIw8zH6QL9K9ix_ptsgnq747IJZpZYq-OB_5zkchT1QL4fDfVBrDVm8UkSJbOxoMSQrqONdLx8uUCRTEsiS_ayAXXGKVegA=m37
+
+#EXTINF:-1 group-title="Peliculas",Control (2022)
+https://lh3.googleusercontent.com/pw/AMWts8BFFBw0zpTaCbDmu0ApD4l2Os-p7Q8ocadFkIxaVHB_XP1yPli_UciWQrjNmwGqmxkmMRvitjkVpDsp4VK5vKfpfwjz4w8EmcTgvRqhMSKsFehf85Q=m37
+
+#EXTINF:-1 group-title="Peliculas",Muy lejos (2023)
+https://lh3.googleusercontent.com/pw/AMWts8DARpTcXUmoH6rZkAk_XKC7ouFDTeOiazJc-S4vNi3n5X1pH-Lcjfn4VyoCAEB5lYcbE_AfPbrCxjAS-bl5po2JAB5_HggC_ouygGxFE6_3LsXcDuw=m37
+
 #EXTINF:-1 group-title="Peliculas",La ballena (2022)
 https://lh3.googleusercontent.com/IZKi3h-0X9Kw4aaL2OoQ6StOgUoYxjIhlbAodfv5y39XWfe6fjmWai5PCptYIsmQOX_npVVSRr_c9be7JoIEwQgQ3p1A7ql9oQq2qUFKrirxT9qgkLdMf1291LV-0igAMJApJuYlRQ=m37
 
 #EXTINF:-1 group-title="Peliculas",El peor vecino del mundo (2022)
-https://lh3.googleusercontent.com/-z4xVcnfjM9EF5tVZu_bANnqrXQULRcaj0zQGiBEvmffr8ETJWXh5jTBNkINjWFUdhPSxPc2QBUsW53oBj7R9wdA9hsuCtT9jSTFGsWVqTH7Wr0Iksoq9DjYnR5dBJ9D4INsSvKh5Q=m37
+https://lh3.googleusercntent.com/-z4xVcnfjM9EF5tVZu_bANnqrXQULRcaj0zQGiBEvmffr8ETJWXh5jTBNkINjWFUdhPSxPc2QBUsW53oBj7R9wdA9hsuCtT9jSTFGsWVqTH7Wr0Iksoq9DjYnR5dBJ9D4INsSvKh5Q=m37
 
 #EXTINF:-1 group-title="Peliculas",Llaman a la puerta (2023)
 https://lh3.googleusercontent.com/htO4vKlKiOOALGPbHJpSMCOLQjwC7lE_oCRe-3aLgbZ2tmLRSRYVayBYIa2C2uVZjg-wgI1tvzWXmd7vNd7j5M6PF7E8lg5T8NRe-aIXDphMVOD-0tJq4RZ9FHaZyIVu1NyLvSPssQ=m37
